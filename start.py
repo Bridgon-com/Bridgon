@@ -18,6 +18,4 @@ if place=="Ladhak":
     print("Lets visit ice stupa")
 if place=="America":
     print("Lets go to America. Hurray!")
-else:country=input("Where is " + (place) + "?")
-print("Wow! " + (country) + " is beautiful")
-
+else: print("where is that?")
